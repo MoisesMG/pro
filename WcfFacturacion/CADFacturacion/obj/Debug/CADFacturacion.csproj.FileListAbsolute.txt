@@ -1,0 +1,10 @@
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\bin\Debug\CADFacturacion.dll.config
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\bin\Debug\CADFacturacion.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\bin\Debug\CADFacturacion.pdb
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\bin\Debug\EntityFramework.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\bin\Debug\EntityFramework.xml
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\obj\Debug\CADFacturacion.csprojResolveAssemblyReference.cache
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\obj\Debug\CADFacturacion.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\CADFacturacion\obj\Debug\CADFacturacion.pdb

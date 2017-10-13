@@ -1,0 +1,40 @@
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\ApplicationInsights.config
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\WcfFacturacion.dll.config
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\WcfFacturacion.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\WcfFacturacion.pdb
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.Web.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.Web.xml
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.csprojResolveAssemblyReference.cache
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.dll
+C:\Users\labjcinco10\Documents\Visual Studio 2015\WebService2\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.pdb
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\ApplicationInsights.config
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\WcfFacturacion.dll.config
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\WcfFacturacion.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\WcfFacturacion.pdb
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\CADFacturacion.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.Web.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.WindowsServer.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.ApplicationInsights.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\CADFacturacion.pdb
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.Web.xml
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.AI.WindowsServer.xml
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\bin\Microsoft.ApplicationInsights.xml
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.csprojResolveAssemblyReference.cache
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.dll
+C:\proyectoNuevo\WCFacturacion\WcfFacturacion\WcfFacturacion\obj\Debug\WcfFacturacion.pdb
